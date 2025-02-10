@@ -2,9 +2,9 @@
 
 An Application who can help us to translate lyrics between different language.the translate engine use the free model "gml4-flash",thanks to chatgml.
 
-![![](/home/lpengjun/Desktop/lyrics/demo/Lyrics-Translation/pictures/Screenshot%20from%202025-02-10%2017-08-43.png)
+![](./Screenshot%20from%202025-02-10%2017-08-43.png)
 
-![](/home/lpengjun/Desktop/lyrics/demo/Lyrics-Translation/pictures/Screenshot%20from%202025-02-10%2017-09-19.png)
+![](./Screenshot%20from%202025-02-10%2017-09-19.png)
 
 **This api is from gml4-flash.you can also apply for a api for yourself to translate.**
 
