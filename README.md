@@ -9,3 +9,6 @@ An Application who can help us to translate lyrics between different language.th
 **This api is from gml4-flash.you can also apply for a api for yourself to translate.**
 
 [CHATGML_API](https://www.bigmodel.cn/usercenter/proj-mgmt/apikeys)
+
+**Attentation:the pyqtdarktheme: install by https://github.com/5yutan5/PyQtDarkTheme/releases/download/v2.1.0/pyqtdarktheme-2.1.0-py3-none-any.whl**
+**python version：3.11**
