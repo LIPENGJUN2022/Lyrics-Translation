@@ -1,6 +1,6 @@
 # Lyrics-Translation
 
-An Application who can help us to translate lyrics between different language.the translate engine use the free model "gml4-flash",thanks to chatgml.
+An Application who can help us to translate lyrics in different language.the translate engine use the free model "gml4-flash",thanks to chatgml.
 
 ![](./Screenshot%20from%202025-02-10%2017-08-43.png)
 
