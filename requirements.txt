@@ -1,0 +1,23 @@
+annotated-types==0.7.0
+anyio==4.8.0
+cachetools==5.5.1
+certifi==2025.1.31
+charset-normalizer==3.4.1
+darkdetect==0.7.1
+h11==0.14.0
+httpcore==1.0.7
+httpx==0.28.1
+idna==3.10
+pydantic==2.10.6
+pydantic_core==2.27.2
+PyJWT==2.8.0
+PyQtDarkTheme @ git+https://github.com/5yutan5/PyQtDarkTheme.git@96eb7e368039ab446952573bafc17d54b7ef5123
+PySide6==6.8.2.1
+PySide6_Addons==6.8.2.1
+PySide6_Essentials==6.8.2.1
+requests==2.32.3
+shiboken6==6.8.2.1
+sniffio==1.3.1
+typing_extensions==4.12.2
+urllib3==2.3.0
+zhipuai==2.1.5.20250106
